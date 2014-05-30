@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1401311866 source:c:\users\user\desktop\lab6iu8-22-master\float.cpp
+	"Float.hpp"
+
+1401311866 c:\users\user\desktop\lab6iu8-22-master\float.hpp
+	<iostream>
+
+1401311866 source:c:\users\user\documents\code_blocs\lab_6\float.cpp
+	"Float.hpp"
+
+1401456445 c:\users\user\documents\code_blocs\lab_6\float.hpp
+	<iostream>
+
